@@ -1,0 +1,5 @@
+name#A1111#111111#staff
+Lim Kok Kok#A1234#123456#manager
+Wong Mei Mei#A1212#908932#staff
+Alan Woodie#A0990#abcd123#staff
+Nurul Iskandar#A5678#hahaha#staff

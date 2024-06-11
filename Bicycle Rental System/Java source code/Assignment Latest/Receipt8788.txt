@@ -1,0 +1,20 @@
+------------------------------------------------------------------
+		 ~ HOURLY BICYCLE RENTAL SYSTEM ~
+------------------------------------------------------------------
+		    | RENTAL ORDER DETAILS |
+------------------------------------------------------------------
+		    ABC Bicycle Rental SDN BHD
+		     Phone no: 012-3456789
+------------------------------------------------------------------
+                                   Rental ID : 8788
+                                   Rental Date : 18/04/2022
+ Customer ID        : C1233
+ Date of Rental     : 22/04/2022
+ Date of Return     : 22/04/2022
+ Total rental period (hour(s)) : 1
+ Total rental price : RM 4.00
+==================================================================
+  No.  |     ID     | Type |     Bicycle Name     |  Price / hr  |
+  1 .      B00101    Fold  	   Cervera        	  4.00
+
+ Total bicycle rent out: 1

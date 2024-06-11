@@ -1,0 +1,4 @@
+C9482#Wong Lim Lim#123456#M#09/02/2002#9832431#wong.@gmail.com#12,Jalan Nuri 28/2 81000,Kulai,Johor.
+C1111#John Tan#abcd1234#M#08/09/1991#1188079908#johntan89@gmail.com#92,Jalan Bakawali,Taman Sentosa, 81000 Kulai, Johor.
+C1233#Jesslyn Chong#abcd123#O#16/04/1999#1789253466#jesschoo16@gmail.com#102,Jalan Koko,Bandar Kaktus, 81220 Kajang,Selangor.
+C0001#Fazil bin Muhammad#fazil4321#M#11/11/1978#1110992034#fazil1978@hotmail.com#67,Jalan Gagak,Taman Rimba Bara,35000 Tapah, Perak.

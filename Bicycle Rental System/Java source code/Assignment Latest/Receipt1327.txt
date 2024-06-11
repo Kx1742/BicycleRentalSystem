@@ -1,0 +1,22 @@
+------------------------------------------------------------------
+		 ~ HOURLY BICYCLE RENTAL SYSTEM ~
+------------------------------------------------------------------
+		    | RENTAL ORDER DETAILS |
+------------------------------------------------------------------
+		    ABC Bicycle Rental SDN BHD
+		     Phone no: 012-3456789
+------------------------------------------------------------------
+                                   Rental ID : 1327
+                                   Rental Date : 02/04/2022
+ Customer ID        : C9482
+ Date of Rental     : 10/04/2022
+ Date of Return     : 10/04/2022
+ Total rental period (hour(s)) : 4
+ Total rental price : RM 72.00
+==================================================================
+  No.  |     ID     | Type |     Bicycle Name     |  Price / hr  |
+  1 .      B65332    Racing	   Stream         	 10.00
+
+  2 .      B11222    Casual	   Colnago        	  8.00
+
+ Total bicycle rent out: 2
